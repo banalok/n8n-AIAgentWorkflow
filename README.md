@@ -15,7 +15,6 @@ n8n-AIAgentWorkflow/
 └── license
 
 ```
-
 ## Features
 
 - **Automated Web Scraping**: Uses Apify actors to collect real-time laptop data
