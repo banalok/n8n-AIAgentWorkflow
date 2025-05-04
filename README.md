@@ -9,7 +9,7 @@ n8n-AIAgentWorkflow/
 ├── workflows/
 │   └── n8n-workflow.json
 ├── video-demo/
-│   ├── workflow-diagram.png
+│   ├── video-demo.gif
 ├── sample-data/
 │   ├── sample-data-link.txt
 └── license
