@@ -3,7 +3,7 @@ An automated workflow that scrapes laptop prices from Amazon and Target, process
 
 ## Project Structure
 
-'''
+```
 n8n-AIAgentWorkflow/
 ├── README.md
 ├── workflows/
@@ -13,7 +13,8 @@ n8n-AIAgentWorkflow/
 ├── sample-data/
 │   ├── sample-data-link.txt
 └── license
-'''
+
+```
 
 ## Features
 
